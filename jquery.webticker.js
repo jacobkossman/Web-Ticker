@@ -233,7 +233,6 @@
 
 				$strip.css('float',settings.direction);
 				$strip.css('position','relative');
-				$strip.css('font', 'bold 10px Verdana');
 				$strip.css('list-style-type', 'none');
 				$strip.css('margin', '0');
 				$strip.css('padding', '0');
